@@ -1,0 +1,9 @@
+.git
+.gitignore
+build_docker_image.sh
+Dockerfile
+LICENSE
+push_docker_image.sh
+README.md
+run_docker_image.sh
+VERSION
